@@ -21,6 +21,16 @@ Date  Who Start   Stop  Interruptions 	Question  TimeOnTask  Comments
 Total Time On Setting-up Laptop (minutes)            175 
 TOTSL (hours and tenths)                             2.9 
 ===========committing to git: 09/03 20:15===============  
+9/04  YM  16:22   16:27      0             Ex1       05       Wrote expression for Ex1 and tested
+9/04  YM  16:27   16:31      0             Ex2       04       Wrote expression for Ex1 and tested
+9/04  YM  16:32   16:40      0             Ex3       08       Wrote expression for Ex3 and tested with an additional example
+9/04  YM  16:45   16:53      1             Ex4       08       Stopped to check email. Wrote expression for Ex4 and tested with an additional example.
+9/04  YM  16:54   17:01      0             Ex5       07       Wrote expression for Ex5 and tested with a few examples
+===========committing to git: 09/03 17:03===============  
+
+
+
+
 
 
 
