@@ -14,8 +14,8 @@
 
 
 ;Tests:
-(sq 10)   
+(check-expect(sq 10) 100)   
 
-(sq 1.6)  
+(check-expect(sq 1.6) 2.56)  
 
-(sq -2.1) 
+(check-expect(sq -2.1) 4.41)
