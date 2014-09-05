@@ -14,8 +14,8 @@
   (* bill_amount tip))
 
 ;Tests:
-(check-expect(tip 10 0.15) 1.5)
+(check-expect (tip 10 0.15) 1.5)
 
-(check-expect(tip 20 0.17) 3.4)
+(check-expect (tip 20 0.17) 3.4)
 
-(check-expect(tip 80 0.10) 8.0)
+(check-expect (tip 80 0.10) 8.0)
