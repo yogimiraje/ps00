@@ -1,15 +1,18 @@
 Date  Who Start   Stop  Interruptions 	Question  TimeOnTask  Comments
 8/25  YM  18:10   18:30      0           CCIS a/c    20       Setup the CCIS account 
 8/27  YM  20:35   20:40      0           Github      05       Created account for Github. 
-8/27  YM  20:40   20:50      0           gravatar    10       Tried to signup to gravatar.com , but it failed as CCIS IS not working
-8/27  YM  20:50   20:55      0           piazza      05       Tried to signup to piazza using CCIS IS , but it also failed. Will wait some more 
-                                                              time to see if CCIS ID would work.I had installed Racket on this machine a month 
-                                                              before,so installation is not required now. Machine is already configured for NUWave.
+8/27  YM  20:40   20:50      0           gravatar    10       Tried to signup to gravatar.com , but it failed as CCIS IS not
+                                                              working
+8/27  YM  20:50   20:55      0           piazza      05       Tried to signup to piazza using CCIS IS , but it also failed. Will
+                                                              wait some more time to see if CCIS ID would work.I had installed 
+                                                              Racket on this machine a month before,so installation is not 
+                                                              required now. Machine is already configured for NUWave.
                                                               CCIS-wireless configuration is yet to be done.
-8/27  YM  20:55   21:15      1           MS Office   20       Stopped to check email. Tried to find communication for free version of MS Office.
- 							      Looks like free version is yet to out on myneu.
+8/27  YM  20:55   21:15      1           MS Office   20       Stopped to check email. Tried to find communication for free version 
+                                                              of MS Office.Looks like free version is yet to out on myneu.
 
-8/30  YM  19:20   19:30      0           CCIS email  10       Tried to access CCIS email using https://zimbra.ccs.neu.edu/. It did not work.  
+8/30  YM  19:20   19:30      0           CCIS email  10       Tried to access CCIS email using https://zimbra.ccs.neu.edu/. It did
+                                                              not work.  
                                                               Came to know that CCIS ID will be setup on September 3.
 
 9/01  YM  18:20   18:40      0           MS Office   40       Downloaded free version of office 365 on myneu and installed.
@@ -22,18 +25,19 @@ Total Time On Setting-up Laptop (minutes)            175
 TOTSL (hours and tenths)                             2.9 
 ===========committing to git: 09/03 20:15==================  
 9/04  YM  16:22   16:27      0             Ex1       05       Wrote expression for Ex1 and tested
-9/04  YM  16:27   16:31      0             Ex2       04       Wrote expression for Ex1 and tested
-9/04  YM  16:32   16:40      0             Ex3       08       Wrote expression for Ex3 and tested with an additional example
-9/04  YM  16:45   16:53      1             Ex4       08       Stopped to check email. Wrote expression for Ex4 and tested with an additional example.
+9/04  YM  16:27   16:31      0             Ex2       04       Wrote expression for Ex2 and tested
+9/04  YM  16:32   16:40      0             Ex3       08       Wrote function for Ex3 and tested with an additional example
+9/04  YM  16:45   16:53      1             Ex4       08       Stopped to check email. Wrote expression for Ex4 and tested with an
+                                                              additional example.
 9/04  YM  16:54   17:01      0             Ex5       07       Wrote expression for Ex5 and tested with a few examples
 
 ===========committing to git: 09/04 17:03================== 
 9/05  YM  17:05   17:22      0           Ex1-5       17       Added check-expect and check-within tests.
 
 ===========committing to git: 09/05 17:22================== 
-9/05  YM  17:45  19:15      0            Ex5-10      90       Solved exercise 5-10. Formatted indentation for EX 1-10.Stuck for sometime on 
-                                                              Ex-9. Found out the difference by running a few tests in DrRacket for
-                                                              remainder and modulo.
+9/05  YM  17:45  19:15      0            Ex5-10      90       Solved exercise 5-10. Formatted indentation for EX 1-10.Stuck for 
+                                                              sometime on Ex-9. Found out the difference by running a few tests in 
+                                                              DrRacket for remainder and modulo.
 ===========committing to git: 09/05 19:15================== 
 Total Time On EX1-10 (minutes)                       139 
 TOTEX1-10 (hours and tenths)                         2.3 
